@@ -33,7 +33,7 @@ sudo ./SetupSTM32CubeMX-4.24.0.linux
 ```
 按照提示一步步安装即可, 然后在默认的安装路径下打开: 
 /usr/local/STMicroelectronics/STM32Cube/STM32CubeMX/STM32CubeMX  
-或者终端 cd/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX
+或者终端 cd /usr/local/STMicroelectronics/STM32Cube/STM32CubeMX
 ./STM32CubeMX
 安装一些MCU支持包等.  
 
@@ -41,6 +41,10 @@ sudo ./SetupSTM32CubeMX-4.24.0.linux
 /opt/Atollic_TrueSTUDIO_for_STM32_x86_64_9.0.1/
 ST-Link/J-Link udev rules to /etc/udev/rules.d/
 
+屏幕录制
+视频剪辑
+图像处理
+matlab
 
 
 ## 快捷键
